@@ -3,7 +3,7 @@ A lightweight style editor for maps
 
 ****
 
-Malette UI: [http://benheb.github.io/malette-ui/](http://benheb.github.io/malette-ui/)
+Malette UI: [http://esridc.github.io/malette-ui/](http://esridc.github.io/malette-ui/)
 
 
 ## TODO:
